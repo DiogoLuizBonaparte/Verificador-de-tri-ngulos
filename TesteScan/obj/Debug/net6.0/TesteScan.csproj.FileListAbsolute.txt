@@ -1,0 +1,15 @@
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\bin\Debug\net6.0\TesteScan.exe
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\bin\Debug\net6.0\TesteScan.deps.json
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\bin\Debug\net6.0\TesteScan.runtimeconfig.json
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\bin\Debug\net6.0\TesteScan.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\bin\Debug\net6.0\TesteScan.pdb
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.csproj.AssemblyReference.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.AssemblyInfoInputs.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.AssemblyInfo.cs
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.csproj.CoreCompileInputs.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\refint\TesteScan.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.pdb
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\TesteScan.genruntimeconfig.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\TesteScan\TesteScan\obj\Debug\net6.0\ref\TesteScan.dll
